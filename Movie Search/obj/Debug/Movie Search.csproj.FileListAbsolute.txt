@@ -1,0 +1,55 @@
+C:\Users\NXsi_qew2\source\repos\Movie Search\Movie Search\bin\Debug\Movie Search.exe.config
+C:\Users\NXsi_qew2\source\repos\Movie Search\Movie Search\bin\Debug\Movie Search.exe
+C:\Users\NXsi_qew2\source\repos\Movie Search\Movie Search\bin\Debug\Movie Search.pdb
+C:\Users\NXsi_qew2\source\repos\Movie Search\Movie Search\obj\Debug\Movie Search.csprojAssemblyReference.cache
+C:\Users\NXsi_qew2\source\repos\Movie Search\Movie Search\obj\Debug\Movie_Search.Form1.resources
+C:\Users\NXsi_qew2\source\repos\Movie Search\Movie Search\obj\Debug\Movie_Search.Properties.Resources.resources
+C:\Users\NXsi_qew2\source\repos\Movie Search\Movie Search\obj\Debug\Movie Search.csproj.GenerateResource.cache
+C:\Users\NXsi_qew2\source\repos\Movie Search\Movie Search\obj\Debug\Movie Search.exe
+C:\Users\NXsi_qew2\source\repos\Movie Search\Movie Search\obj\Debug\Movie Search.pdb
+C:\Users\NXsi_qew2\source\repos\Movie Search\Movie Search\obj\Debug\Movie Search.csproj.CopyComplete
+C:\Users\NXsi_qew2\Desktop\Movie Search\Movie Search\bin\Debug\Movie Search.exe.config
+C:\Users\NXsi_qew2\Desktop\Movie Search\Movie Search\bin\Debug\Movie Search.exe
+C:\Users\NXsi_qew2\Desktop\Movie Search\Movie Search\bin\Debug\Movie Search.pdb
+C:\Users\NXsi_qew2\Desktop\Movie Search\Movie Search\obj\Debug\Movie Search.csprojAssemblyReference.cache
+C:\Users\NXsi_qew2\Desktop\Movie Search\Movie Search\obj\Debug\Movie_Search.Form1.resources
+C:\Users\NXsi_qew2\Desktop\Movie Search\Movie Search\obj\Debug\Movie_Search.Properties.Resources.resources
+C:\Users\NXsi_qew2\Desktop\Movie Search\Movie Search\obj\Debug\Movie Search.csproj.GenerateResource.cache
+C:\Users\NXsi_qew2\Desktop\Movie Search\Movie Search\obj\Debug\Movie Search.csproj.CopyComplete
+C:\Users\NXsi_qew2\Desktop\Movie Search\Movie Search\obj\Debug\Movie Search.exe
+C:\Users\NXsi_qew2\Desktop\Movie Search\Movie Search\obj\Debug\Movie Search.pdb
+C:\Users\NXsi_qew2\Desktop\Movie Search\Movie Search\bin\Debug\Newtonsoft.Json.dll
+C:\Users\NXsi_qew2\Desktop\Movie Search\Movie Search\bin\Debug\Newtonsoft.Json.xml
+C:\Users\NXsi_qew2\Desktop\Movie Search\Movie Search\bin\Debug\az-Latn-AZ\Movie Search.resources.dll
+C:\Users\NXsi_qew2\Desktop\Movie Search\Movie Search\obj\Debug\Movie_Search.Form1.az-Latn-AZ.resources
+C:\Users\NXsi_qew2\Desktop\Movie Search\Movie Search\obj\Debug\az-Latn-AZ\Movie Search.resources.dll
+C:\Users\StepGuest\Desktop\Movie Search\Movie Search\bin\Debug\Movie Search.exe.config
+C:\Users\StepGuest\Desktop\Movie Search\Movie Search\bin\Debug\Movie Search.exe
+C:\Users\StepGuest\Desktop\Movie Search\Movie Search\bin\Debug\Movie Search.pdb
+C:\Users\StepGuest\Desktop\Movie Search\Movie Search\bin\Debug\az-Latn-AZ\Movie Search.resources.dll
+C:\Users\StepGuest\Desktop\Movie Search\Movie Search\bin\Debug\Newtonsoft.Json.dll
+C:\Users\StepGuest\Desktop\Movie Search\Movie Search\bin\Debug\Newtonsoft.Json.xml
+C:\Users\StepGuest\Desktop\Movie Search\Movie Search\obj\Debug\Movie Search.csprojAssemblyReference.cache
+C:\Users\StepGuest\Desktop\Movie Search\Movie Search\obj\Debug\Movie_Search.Properties.Resources.resources
+C:\Users\StepGuest\Desktop\Movie Search\Movie Search\obj\Debug\Movie Search.csproj.GenerateResource.cache
+C:\Users\StepGuest\Desktop\Movie Search\Movie Search\obj\Debug\az-Latn-AZ\Movie Search.resources.dll
+C:\Users\StepGuest\Desktop\Movie Search\Movie Search\obj\Debug\Movie Search.csproj.CopyComplete
+C:\Users\StepGuest\Desktop\Movie Search\Movie Search\obj\Debug\Movie Search.exe
+C:\Users\StepGuest\Desktop\Movie Search\Movie Search\obj\Debug\Movie Search.pdb
+C:\Users\StepGuest\Desktop\Movie Search\Movie Search\obj\Debug\Movie_Search.MovieSearch.resources
+C:\Users\StepGuest\Desktop\Movie Search\Movie Search\obj\Debug\Movie_Search.MovieSearch.az-Latn-AZ.resources
+C:\Users\lenovo 330\Desktop\Movie Search\Movie Search\bin\Debug\Movie Search.exe.config
+C:\Users\lenovo 330\Desktop\Movie Search\Movie Search\bin\Debug\Movie Search.exe
+C:\Users\lenovo 330\Desktop\Movie Search\Movie Search\bin\Debug\Movie Search.pdb
+C:\Users\lenovo 330\Desktop\Movie Search\Movie Search\bin\Debug\az-Latn-AZ\Movie Search.resources.dll
+C:\Users\lenovo 330\Desktop\Movie Search\Movie Search\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lenovo 330\Desktop\Movie Search\Movie Search\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lenovo 330\Desktop\Movie Search\Movie Search\obj\Debug\Movie Search.csprojAssemblyReference.cache
+C:\Users\lenovo 330\Desktop\Movie Search\Movie Search\obj\Debug\Movie_Search.MovieSearch.resources
+C:\Users\lenovo 330\Desktop\Movie Search\Movie Search\obj\Debug\Movie_Search.Properties.Resources.resources
+C:\Users\lenovo 330\Desktop\Movie Search\Movie Search\obj\Debug\Movie_Search.MovieSearch.az-Latn-AZ.resources
+C:\Users\lenovo 330\Desktop\Movie Search\Movie Search\obj\Debug\Movie Search.csproj.GenerateResource.cache
+C:\Users\lenovo 330\Desktop\Movie Search\Movie Search\obj\Debug\az-Latn-AZ\Movie Search.resources.dll
+C:\Users\lenovo 330\Desktop\Movie Search\Movie Search\obj\Debug\Movie Search.csproj.CopyComplete
+C:\Users\lenovo 330\Desktop\Movie Search\Movie Search\obj\Debug\Movie Search.exe
+C:\Users\lenovo 330\Desktop\Movie Search\Movie Search\obj\Debug\Movie Search.pdb
